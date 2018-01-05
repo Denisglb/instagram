@@ -31,5 +31,13 @@ h1, h2, h3, h4, h5, h6 {
 .nav {
 	box-shadow: 0 1px 2px 0 rgba(82,158,284, 0.22);
 	box-color: #529ECC;
-	
+}
+
+#edit_page {
+	.current_image {
+		img {
+			display: block;
+			margin: 20px 0;
+		}
+	}
 }
