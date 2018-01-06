@@ -25,6 +25,7 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7' 
 gem "paperclip", "~> 5.0.0"
 gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.11.1'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
