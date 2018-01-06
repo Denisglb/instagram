@@ -1,24 +1,12 @@
-# README
+# Instagram Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* This is a replica of the Instagram Web App built in Ruby on Rails. Main Features:
 
-Things you may want to cover:
+* Liking Pictures
 
-* Ruby version
+* Users and Restrictions
 
-* System dependencies
+* Image Uploading
 
-* Configuration
+* CRUD functionality for pictures
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
