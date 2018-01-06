@@ -24,6 +24,7 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7' 
 gem "paperclip", "~> 5.0.0"
+gem 'masonry-rails'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
